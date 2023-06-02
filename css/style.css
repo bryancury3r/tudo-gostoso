@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-size: border-box;
+}
+
+.top-bar {
+    background-color: #ff6b28;
+    padding: 15px;
+    text-align: center;
+}
