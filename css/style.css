@@ -9,3 +9,10 @@
     padding: 15px;
     text-align: center;
 }
+
+#header {
+    background: url("../images/hero_bolo.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
