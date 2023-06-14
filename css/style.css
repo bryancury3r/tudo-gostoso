@@ -44,6 +44,42 @@ h2 {
 }
 
 .card {
-    border: 1px solid;
+    
     padding: 70px 100px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+.card:hover {
+    box-shadow: 8px 8px 15px 12px rgba(205, 205, 205, 0.25)
+
+}
+
+.ingredients {
+    cursor: url("../images/cursor_ingredientes.png"), auto;
+}
+
+.preparation {
+    cursor: url("../images/cursor_preparo.png"), auto;
+
+}
+
+a {
+    text-decoration: none;
+    
+}
+
+.buy-button {
+    background-color: #FF6B28;
+    padding: 16px;
+    border-radius: 20px;
+    color: white;
+}
+
+.ingredient-list {
+    margin-bottom: 50px;
+}
+
+li {
+    margin-botton: 14px;
 }
